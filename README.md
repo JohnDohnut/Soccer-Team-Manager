@@ -41,7 +41,6 @@ MySQL
 ~~~
 ## Flow
 
-![화면 캡처 2022-09-16 125853](https://user-images.githubusercontent.com/51821505/190553707-a85391c1-f276-48bf-99c3-ceea85a738eb.png)
-
+![image](https://user-images.githubusercontent.com/51821505/190554199-51cca9ae-e9c1-49b2-b810-5486b1fe5074.png)
 
 ## DB Schema
