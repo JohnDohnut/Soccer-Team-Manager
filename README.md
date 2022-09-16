@@ -44,4 +44,4 @@ MySQL
 ![화면 캡처 2022-09-16 125853](https://user-images.githubusercontent.com/51821505/190553707-a85391c1-f276-48bf-99c3-ceea85a738eb.png)
 
 ~~~
-##DB Schema
+## DB Schema
