@@ -1,4 +1,4 @@
-# SoccerTeamManager
+# SoccerTeamManagementSystem
 
 ##Purpose
 ~~~
