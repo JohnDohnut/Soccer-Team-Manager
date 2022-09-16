@@ -1,4 +1,4 @@
-# Soccer-Team-Manager
+# SoccerTeamManager
 
 
 @Author
